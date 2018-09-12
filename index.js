@@ -11,6 +11,23 @@ function divideBy3() {
 function add(a,b){
   return (a + b);
 }
+
+function subtract(a,b){
+  return (a - b);
+}
+
+function multiply(a,b){
+  return (a *b);
+}
+
+function divide(a,b){
+  return (a / b);
+}
+
+function inc(n){
+  return (n + 1);
+}
+
 divideBy3()
  
 console.log(number) // 3.333333333335
