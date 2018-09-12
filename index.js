@@ -8,6 +8,9 @@ function divideBy3() {
   number /= 3
 }
  
+function add(a,b){
+  return (a + b);
+}
 divideBy3()
  
 console.log(number) // 3.333333333335
@@ -36,4 +39,5 @@ parseFloat('80.123999') // 80.123999
 makeInt('2930423')
 
 preserveDeciminal ('2903480.234')
+
 
